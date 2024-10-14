@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9b/f9/9e/9bf99e2a11d5f0940fc117e7c6016834.gif" alt="animated" width="80%" />
+  <img src="https://i.pinimg.com/originals/9b/f9/9e/9bf99e2a11d5f0940fc117e7c6016834.gif" alt="animated" width="70%" />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phan Hồng Đức
