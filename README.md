@@ -36,6 +36,4 @@ I am a fresh software developer looking for a job opportunity. Enthusiastic and 
 
 <div width="100%" align="center"><a href="https://github.com/ducphan2408/DHo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ducphan2408&repo=DHo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ducphan2408/SmartHomeProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ducphan2408&repo=SmartHomeProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/ducphan2408/lodoBus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ducphan2408&repo=lodoBus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
